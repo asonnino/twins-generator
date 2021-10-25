@@ -49,8 +49,8 @@ The graph shows that the best results are obtained when running the generator wi
 
 ## References
 * [Twins: White-Glove Approach for BFT Testing](https://arxiv.org/abs/2004.10617)
-* [Twins Simulator](https://github.com/novifinancial/twins-simulator)
+* [Twins Simulator](https://github.com/asonnino/twins-simulator)
 
 ## License
-The content of this repository is licensed as [Apache 2.0](https://github.com/novifinancial/twins-generator/blob/master/LICENSE)
+The content of this repository is licensed as [Apache 2.0](https://github.com/asonnino/twins-generator/blob/master/LICENSE)
 
